@@ -1,6 +1,7 @@
 ## 캔위성 Middle_Platform
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/12bbde16-30cc-4785-ac54-4513c54de876/7d25404a-cc3b-44e4-9d5c-1f0135c391b1/Untitled.png)
+<img width="539" alt="Untitled (16)" src="https://github.com/dawoon1229/Cansat_project/assets/164113758/ae055ec7-de4f-4e16-a866-505819bac3c5">
+
 
 이 회로도는 SD 카드 리더를 제어하는 데 사용되는 핀과 관련된 것이다.
 
